@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "nextflow_azure_function_device_consumer": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7122",
+      "launchBrowser": false
+    }
+  }
+}
